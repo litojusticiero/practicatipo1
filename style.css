@@ -19,11 +19,6 @@ nav{
 a.yellow:hover{
     background-color: yellow;
 }
-li{
-
-    list-style: none;
-    padding-left: 20px;
-}
 section.parte1{
     border-bottom: 20px solid blue;
     color: blue;
@@ -47,6 +42,10 @@ section.parte3{
     margin-bottom: 10px;
     padding-bottom: 10px;
 }
+li{
+    list-style-type: none;
+    padding-left: 20px;
+}
 p.parte1{
     border-top: blue 20px solid;
 }
@@ -66,7 +65,7 @@ img.right{
     float: right;
     width: 200px;
 }
-li{
+li.japon{
     list-style-position: inside;
     background-color: blanchedalmond;
     list-style-type: katakana-iroha;
