@@ -1,0 +1,91 @@
+
+body{
+    margin: 11px;
+}
+header{
+    text-align: center;
+    font-family: 'Sriracha';
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+nav{
+    background-color: lightblue;
+    padding-bottom: 15px;
+    margin-left: -10px;
+}
+a.yellow:hover{
+    background-color: yellow;
+}
+li{
+
+    list-style: none;
+    padding-left: 20px;
+}
+section.parte1{
+    border-bottom: 20px solid blue;
+    color: blue;
+    font-size: 140%;
+    margin-left: -10px;
+}
+section.parte2{
+    background-color: lightblue;
+    color: red;
+    font-size: 130%;
+    margin-left: -10px;
+    padding-top: 15px;
+    margin-top: 50px;
+    padding-bottom: 25px;
+    margin-bottom: -100px;
+}
+section.parte3{
+    background-color: orange;
+    color: black;
+    margin-left: -10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+p.parte1{
+    border-top: blue 20px solid;
+}
+p.parte2{
+    margin-bottom: -3px;
+}
+p.parte3{
+    border-top: red 20px solid;
+    border-bottom: red 20px solid;
+}
+img.left{
+    float: left;
+    width: 200px;
+}
+img.right{
+    margin-top: 20px;
+    float: right;
+    width: 200px;
+}
+li{
+    list-style-position: inside;
+    background-color: blanchedalmond;
+    list-style-type: katakana-iroha;
+    margin-left: 10px;
+}
+footer.foot{
+    padding-top: 20px;
+    margin-left: -10px;
+    text-align: center;
+    background-color: salmon;
+    margin-top: 100px;
+    padding-bottom: 50px;
+    border-bottom: orange 20px solid;
+}
+footer.foot2{
+    padding-top: 20px;
+    margin-left: -10px;
+    margin-top: -10px;
+    text-align: center;
+    background-color: salmon;
+    padding-bottom: 50px;
+}
